@@ -17,6 +17,8 @@
 .nfs*
 
 ### Node ###
+#json files
+astab*.json
 # Logs
 logs
 *.log
