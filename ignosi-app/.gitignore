@@ -19,6 +19,8 @@
 ### Node ###
 #json files
 astab*.json
+*.html
+*.htm
 # Logs
 logs
 *.log
@@ -37,7 +39,7 @@ lib-cov
 
 # Coverage directory used by tools like istanbul
 coverage
-
+asImages
 # nyc test coverage
 .nyc_output
 
